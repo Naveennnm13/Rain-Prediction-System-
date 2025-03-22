@@ -1,4 +1,4 @@
-# Rain-Prediction-System-
+# Rain-Prediction-System using ML
 # IoT and Wireless Sensor Network (WSN) Based Data Logger System with Rain Prediction using Machine Learning
 
 ## Project Overview
